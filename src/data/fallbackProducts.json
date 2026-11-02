@@ -1,0 +1,182 @@
+[
+  {
+    "id": 101,
+    "title": "Sony PlayStation 5 Slim Console",
+    "price": 499.99,
+    "description": "Experience lightning-fast loading with an ultra-high speed 1TB SSD, deeper immersion with haptic feedback, adaptive triggers, and Tempest 3D AudioTech. Play an extraordinary lineup of next-gen PlayStation games in stunning 4K HDR.",
+    "category": "Home Consoles",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.9,
+      "count": 482
+    },
+    "featured": true,
+    "brand": "Sony",
+    "stock": 15
+  },
+  {
+    "id": 102,
+    "title": "Microsoft Xbox Series X Console",
+    "price": 499.99,
+    "description": "The fastest, most powerful Xbox ever. Play thousands of titles from four generations of consoles with 12 teraflops of raw graphic processing power, DirectX ray tracing, custom NVMe SSD, and 4K gaming at up to 120 FPS.",
+    "category": "Home Consoles",
+    "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.8,
+      "count": 395
+    },
+    "featured": true,
+    "brand": "Microsoft",
+    "stock": 12
+  },
+  {
+    "id": 103,
+    "title": "Nintendo Switch OLED Model - White",
+    "price": 349.99,
+    "description": "Featuring a vibrant 7-inch OLED screen with vivid colors and crisp contrast, a wide adjustable tabletop stand, a dock with a wired LAN port, 64 GB of internal storage, and enhanced audio for handheld and tabletop play.",
+    "category": "Home Consoles",
+    "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.9,
+      "count": 512
+    },
+    "featured": true,
+    "brand": "Nintendo",
+    "stock": 25
+  },
+  {
+    "id": 104,
+    "title": "Valve Steam Deck OLED 512GB Handheld",
+    "price": 549.00,
+    "description": "Your Steam Library anywhere you go. Powered by a custom 6nm AMD APU and a gorgeous 90Hz HDR OLED display with longer battery life, Wi-Fi 6E, and tactile analog thumbsticks and dual trackpads.",
+    "category": "Handhelds",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.9,
+      "count": 278
+    },
+    "featured": true,
+    "brand": "Valve",
+    "stock": 10
+  },
+  {
+    "id": 105,
+    "title": "ASUS ROG Ally Z1 Extreme Handheld Gaming PC",
+    "price": 599.99,
+    "description": "Full Windows 11 gaming in the palm of your hand. Powered by the AMD Ryzen Z1 Extreme processor, 16GB LPDDR5 RAM, and a 1080p 120Hz display with FreeSync Premium for seamless AAA gaming on the go.",
+    "category": "Handhelds",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.6,
+      "count": 184
+    },
+    "featured": false,
+    "brand": "ASUS",
+    "stock": 8
+  },
+  {
+    "id": 106,
+    "title": "Sony PlayStation VR2 Headset",
+    "price": 549.99,
+    "description": "Escape into worlds that feel, look, and sound truly real with 4K HDR visuals, 110-degree field of view, intelligent eye tracking, 3D audio, and intuitive PS VR2 Sense controller feedback.",
+    "category": "VR & Audio",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269bc1df?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.7,
+      "count": 142
+    },
+    "featured": false,
+    "brand": "Sony",
+    "stock": 9
+  },
+  {
+    "id": 107,
+    "title": "Meta Quest 3 128GB VR & Mixed Reality Headset",
+    "price": 499.99,
+    "description": "Transform your home into an exciting new playground where virtual elements blend effortlessly into your physical space with groundbreaking color Passthrough, 4K+ Infinite Display, and Touch Plus controllers.",
+    "category": "VR & Audio",
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.8,
+      "count": 310
+    },
+    "featured": true,
+    "brand": "Meta",
+    "stock": 14
+  },
+  {
+    "id": 108,
+    "title": "PlayStation 5 DualSense Wireless Controller",
+    "price": 69.99,
+    "description": "Discover a deeper, highly immersive gaming experience with innovative haptic feedback, dynamic adaptive triggers, a built-in microphone, and iconic comfortable ergonomic design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.8,
+      "count": 640
+    },
+    "featured": false,
+    "brand": "Sony",
+    "stock": 45
+  },
+  {
+    "id": 109,
+    "title": "Xbox Elite Wireless Controller Series 2",
+    "price": 179.99,
+    "description": "Play like a pro with adjustable-tension thumbsticks, wrap-around rubberized grip, shorter hair-trigger locks, customizable components, and up to 40 hours of rechargeable battery life.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.7,
+      "count": 215
+    },
+    "featured": false,
+    "brand": "Microsoft",
+    "stock": 20
+  },
+  {
+    "id": 110,
+    "title": "SteelSeries Arctis Nova Pro Wireless Headset",
+    "price": 349.99,
+    "description": "Almighty Audio with Nova Pro Acoustic System, Active Noise Cancellation, infinity power system with dual swappable hot-battery design, and multi-system simultaneous connection.",
+    "category": "VR & Audio",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.8,
+      "count": 167
+    },
+    "featured": false,
+    "brand": "SteelSeries",
+    "stock": 11
+  },
+  {
+    "id": 111,
+    "title": "Nintendo Switch Pro Controller",
+    "price": 69.99,
+    "description": "Take your game sessions up a notch with motion controls, HD rumble feedback, built-in amiibo functionality, and premium grip texturing for long gaming marathons.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.8,
+      "count": 489
+    },
+    "featured": false,
+    "brand": "Nintendo",
+    "stock": 30
+  },
+  {
+    "id": 112,
+    "title": "Microsoft Xbox Series S - 1TB All-Digital (Carbon Black)",
+    "price": 349.99,
+    "description": "Next-gen speed and performance in a compact, sleek carbon black finish with a full 1TB SSD. Experience seamless Quick Resume, lightning-fast load times, and gameplay up to 120 FPS.",
+    "category": "Home Consoles",
+    "image": "https://images.unsplash.com/photo-1580234811497-9df7fd2f357e?auto=format&fit=crop&w=800&q=80",
+    "rating": {
+      "rate": 4.7,
+      "count": 320
+    },
+    "featured": false,
+    "brand": "Microsoft",
+    "stock": 18
+  }
+]
